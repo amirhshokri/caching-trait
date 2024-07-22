@@ -1,6 +1,6 @@
 # How to use Cachable Trait?
 
-This Trait is used to add simple caching logic to models.
+This Trait is used to add simple caching logic to laravel models.
 
 ### Usage Instructions:
 
