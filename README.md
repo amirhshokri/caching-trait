@@ -37,7 +37,7 @@ The `id` referred to in the `getOneById` and `getCollectionByIds` methods is the
 If you want to use the `getCollectionBy` method, ensure that the desired foreign key is present in the `$cacheKey` property. For example:
 
 ```php
-    $results = App\Models\Model::getCollectionBy('country_id', 10);
+$results = App\Models\Model::getCollectionBy('country_id', 10);
 ```
 
 ### How Does This Trait Work?
